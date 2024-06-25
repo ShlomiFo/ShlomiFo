@@ -13,6 +13,7 @@ In addition to my technical background, I bring valuable experience from my prev
 Yes, I bring cakes and pastries to the office 🍰, and I might even reveal their recipes 📜.
 
 I like to learn languages, I speak Hebrew, English, Dutch and working on my German. 
+
 People say I Slay coding 
 
 <img width="300" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9797746e-454f-4451-a454-2d4a9fdc9f02">
