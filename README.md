@@ -31,10 +31,9 @@ Recently moved to Berlin, and open for work!
 - Pathways Deep dive, Techground, The Netherlands.
 
 ## 📂 Some of my Projects
-
-
+<br> 
  
-**HobbyBuddy**
+## HobbyBuddy
 
 
 - Have you just moved to a new city and want to make some friends ?
@@ -48,7 +47,7 @@ HobbyBuddy is an app that helps people to connect, sharing the same interests. W
 <img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/7b5182df-bfc8-41fd-a4e6-1941a419dc06">
 <img width="225"  src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/e344f9da-7ead-49fe-9710-d2a948f3ce30">|
 
-## Features
+### Features
 
 - You can build your profile and add your interests.
 - The app will map and show you people who share at least one interest.
@@ -56,13 +55,23 @@ HobbyBuddy is an app that helps people to connect, sharing the same interests. W
 - If both people "liked" each other's profile, you will be able to connect and send a message to each other, in our chat rooms platform.
 - You can filter and search people in a certain distance. 
  
- ## Technologies used
+ ### Technologies used
  
 - Figma - We built prototype and decided our designs guidelines.
 - Html & Css - Using Boostraps
 - JavaScript - **Swap.js** - We used this library to be able to swap between profile cards. **Stimules.js** - to connect front end to back end. 
 - Cloudinary  -a cloud image storage and manipulation service.
 - Ruby on rails - Server-side web application framework that we used to create and maintain the back end.  
+<br>
+
+## BikeBnb
+
+Everywhere you go, you can rent bikes to explorer the city, travel in the mountains. Meet people who offer their bike and know the area they live, so you can get tips and hints where to go, find the secret beautiful place. More over you can offer your bike for rent too and help someone to enjoy their trip too.
+This project is an Airbnb clone, e-commerce website. 
+
+<img width="300" alt="choose dates" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9ceece52-63a0-4b20-91e2-2a2ca0d31681">
+<img width="300" alt="bikes for rent" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/c7661319-6332-4c79-9cf3-445ec8010faf">
+<img width="300" alt="BikeBnb landing page" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/615dcde8-4b47-47f2-b8e6-72bb847ae8bb">
 
 
 <!---
