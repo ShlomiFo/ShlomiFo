@@ -10,6 +10,7 @@ In addition to my technical background, I bring valuable experience from my prev
 People say I Slay coding
 Wanna slay together code projects ? Get in touch !
 fogelshlomi@gmail.com
+<br>
 Recently based in Berlin. 
 
 
