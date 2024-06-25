@@ -44,9 +44,9 @@ HobbyBuddy is an app that helps people to connect, sharing the same interests. W
 
 
 <img width="225"  src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/e344f9da-7ead-49fe-9710-d2a948f3ce30">|
-<img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/cae0c4b0-4ce3-4994-94cb-cfebfd89f4d5">
-<img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/60ae8d1e-9d1d-4a17-ad9b-327a531155a6">
 <img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/7b5182df-bfc8-41fd-a4e6-1941a419dc06">
+<img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/60ae8d1e-9d1d-4a17-ad9b-327a531155a6">
+<img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/cae0c4b0-4ce3-4994-94cb-cfebfd89f4d5">
 
 ### Features
 
