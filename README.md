@@ -2,7 +2,7 @@
  
 I'm a Junior Full Stack Web Developer with a **strong focus on front-end development and design**
 
-I graduated from Le Wagon Netherlands On March 2024
+I graduated from Le Wagon Netherlands On March 2024.
 
 As a truly millennial, I like to see how web applications can make small and big changes in people lives. Help people to connect, personal growth, build communities, contribute to education, to environment development, health technologies, and create easy access to knowledge and art.
 
@@ -37,18 +37,32 @@ Recently moved to Berlin, and open for work!
 **HobbyBuddy**
 
 
-Are you new to the city and want to make new friends ?
+- Have you just moved to a new city and want to make some friends ?
+- Are you looking for a buddy to improve some skills ?
+- Are you looking for people to share your hobbies with ? 
 
-Are you looking for a buddy to improve some skills ? 
-
-HobbyBuddy is an app that helps people to connect, sharing the same interests. We collaborated in team of four during our coding bootcamp to bring  this app alive, because we believe the best to connect with each other is by actively doing things together, like earning languages, cook, bake, planning your dreamy nails-polish party, find a buddy to gym, jamming, photowalks and so much more…  | Cell 2   |
-Are you new to the city and want to make new friends ? Are you looking for a buddy to improve some skills ? Are you looking for people to share your hobbies with ? 
-HobbyBuddy is an app that helps people to connect, sharing the same interests. We collaborated in team of four during our coding bootcamp to bring  this app alive, because we believe the best to connect with each other is by actively doing things together, like earning languages, cook, bake, planning your dreamy nails-polish party, find a buddy to gym, jamming, photowalks and so much more…
+HobbyBuddy is an app that helps people to connect, sharing the same interests. We collaborated in team of four during our coding bootcamp to bring  this app alive, because we believe the best to connect with each other is by actively doing things together, like learning languages, cook, bake, planning your dreamy nails-polish party, find a buddy to gym, jamming, photowalks and so much more…
 
 <img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/cae0c4b0-4ce3-4994-94cb-cfebfd89f4d5">
 <img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/60ae8d1e-9d1d-4a17-ad9b-327a531155a6">
 <img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/7b5182df-bfc8-41fd-a4e6-1941a419dc06">
 <img width="225"  src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/e344f9da-7ead-49fe-9710-d2a948f3ce30">|
+
+## Features
+
+- You can build your profile and add your interests.
+- The app will map and show you people who share at least one interest.
+- You will be able to swap right if you find the person interesting, and to the left if you do not.
+- If both people "liked" each other's profile, you will be able to connect and send a message to each other, in our chat rooms platform.
+- You can filter and search people in a certain distance. 
+ 
+ ## Technologies used
+ 
+- Figma - We built prototype and decided our designs guidelines.
+- Html & Css - Using Boostraps
+- JavaScript - **Swap.js** - We used this library to be able to swap between profile cards. **Stimules.js** - to connect front end to back end. 
+- Cloudinary  -a cloud image storage and manipulation service.
+- Ruby on rails - Server-side web application framework that we used to create and maintain the back end.  
 
 
 <!---
