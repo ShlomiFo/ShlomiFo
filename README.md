@@ -69,10 +69,12 @@ HobbyBuddy is an app that helps people to connect, sharing the same interests. W
 
 Everywhere you go, you can rent bikes to explorer the city, travel in the mountains. Meet people who offer their bike and know the area they live, so you can get tips and hints where to go, find the secret beautiful place. More over you can offer your bike for rent too and help someone to enjoy their trip too.
 This project is an Airbnb clone, e-commerce website. 
-<br>
-<img width="300" alt="choose dates" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9ceece52-63a0-4b20-91e2-2a2ca0d31681">
-<img width="300" alt="bikes for rent" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/c7661319-6332-4c79-9cf3-445ec8010faf">
-<img width="300" alt="BikeBnb landing page" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/615dcde8-4b47-47f2-b8e6-72bb847ae8bb">
+<br><br>
+<img width="500" alt="BikeBnb landing page" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/615dcde8-4b47-47f2-b8e6-72bb847ae8bb">
+<br><br>
+<img width="500" alt="bikes for rent" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/c7661319-6332-4c79-9cf3-445ec8010faf">
+<br><br>
+<img width="500" alt="choose dates" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9ceece52-63a0-4b20-91e2-2a2ca0d31681">
 
 
 <!---
