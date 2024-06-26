@@ -69,7 +69,7 @@ HobbyBuddy is an app that helps people to connect, sharing the same interests. W
 - Ruby on rails - Server-side web application framework that we used to create and maintain the back end.  
 <br>
 
-## BikeBnb
+## BikeBnB
 
 Everywhere you go, you can rent bikes to explorer the city, travel in the mountains. Meet people who offer their bike and know the area they live, so you can get tips and hints where to go, find the secret beautiful place. More over you can offer your bike for rent too and help someone to enjoy their trip too.
 This project is an Airbnb clone, e-commerce website. 
