@@ -1,4 +1,4 @@
-# <p align="center"> Hi, I’m Shlomi 😊 <P>
+# <p align="center"> Hi, I’m Shlomi 💁 <P>
  
 I'm a Junior Full Stack Web Developer with a **strong focus on front-end development and design**
 
@@ -13,7 +13,7 @@ In addition to my technical background, I bring valuable experience from my prev
 
 Yes, I bring cakes and pastries to the office 🍰, and I might even reveal their recipes 📜.
 
-I like to learn languages, I speak Hebrew, English, Dutch and working on my German. 
+I like to learn languages, I speak English, Dutch and working on my German. 
 
 People say I Slay coding 
 
