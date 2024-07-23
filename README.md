@@ -1,4 +1,5 @@
 # <p align="center"> Hi, I’m Shlomi 💁 <P>
+## A passionate web developer
  
 I'm a Junior Full Stack Web Developer with a **strong focus on front-end development and design**
 
