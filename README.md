@@ -3,22 +3,20 @@
  
 I'm a Junior Full Stack Web Developer with a **strong focus on front-end development and design**
 
-I graduated from Le Wagon Netherlands On March 2024.
+I graduated from Le Wagon Netherlands in March 2024.
 
-I enjoy the most working with JavaScript, these days working to improve my skils in React and Vue.js. 
+I enjoy working with JavaScript, these days working to improve my skils in React.js and Vue.js. 
 
-As a true millennial, I like to see how web applications can make small and big changes in people lives. Help people to connect, personal growth, build communities, contribute to education, to environment development, health technologies, and create easy access to knowledge and art.
+As a true millennial, I like to see how web applications can make small and big changes in people's lives. Help people to connect, personal growth, build communities, contribute to education, to environment development, health technologies, and create easy access to knowledge and art.
 
 
 In addition to my technical background, I bring valuable experience from my previous roles as a Head baker & Team manager. This experience has equipped me with exceptional communication, problem-solving, and time management skills.
 
-Yes, I bring cakes and pastries to the office 🍰, and I might even reveal their recipes 📜.
+Yes, I bring cakes and pastries to the office , and I might even reveal their recipes .
 
 I like to learn languages, I speak English, Dutch and working on my German. 
 
-People say I Slay coding 
-
-<img width="300" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9797746e-454f-4451-a454-2d4a9fdc9f02">
+People say I Slay coding<img width="300" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9797746e-454f-4451-a454-2d4a9fdc9f02">
 
 Wanna slay together code projects ? Get in touch !
 <br>
@@ -45,7 +43,7 @@ Recently moved to Berlin, and open for work!
 - Are you looking for a buddy to improve some skills ?
 - Are you looking for people to share your hobbies with ? 
 
-HobbyBuddy is an app that helps people to connect, sharing the same interests. We collaborated in team of four during our coding bootcamp to bring  this app alive, because we believe the best to connect with each other is by actively doing things together, like learning languages, cook, bake, planning your dreamy nails-polish party, find a buddy to gym, jamming, photowalks and so much more…
+HobbyBuddy is an app that helps people to connect, sharing the same interests. We collaborated in team of four during our coding bootcamp to bring  this app alive, because we believe the best to connect with each other is by actively doing things together, like learning languages, cook, bake, planning your dreamy nails-polish party, find a buddy to gym, jamming, photo-walks and so much more…
 
 
 <img width="225"  src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/e344f9da-7ead-49fe-9710-d2a948f3ce30">|
