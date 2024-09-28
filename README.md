@@ -16,8 +16,8 @@ Yes, I bring cakes and pastries to the office , and I might even reveal their re
 
 I like to learn languages, I speak English, Dutch and working on my German. 
 
-People say I Slay coding<img width="300" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9797746e-454f-4451-a454-2d4a9fdc9f02">
-
+<img width="300" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/9797746e-454f-4451-a454-2d4a9fdc9f02">
+People say I Slay coding
 Wanna slay together code projects ? Get in touch !
 <br>
 fogelshlomi@gmail.com
