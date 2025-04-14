@@ -7,7 +7,7 @@ I graduated from Le Wagon Amsterdam, in March 2024.
 
 I enjoy working with JavaScript, these days working to improve my skills in React.js and Vue.js. 
 
-As a true millennial, I like to see how web applications can make small and big changes in people's lives. Help people to connect, personal growth, build communities, contribute to education, to environment development, health technologies, and create easy access to knowledge and art.
+As a truly millennial, I like to see how web applications can make small and big changes in people's lives. Help people to connect, personal growth, build communities, contribute to education, to environment development, health technologies, and create easy access to knowledge and art.
 
 
 In addition to my technical background, I bring valuable experience from my previous roles as a Head baker & Team manager. This experience has equipped me with exceptional communication, problem-solving, and time management skills.
