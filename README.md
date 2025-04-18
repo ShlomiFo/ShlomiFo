@@ -7,7 +7,7 @@ I graduated from Le Wagon Amsterdam, in March 2024.
 
 I enjoy working with JavaScript, these days working to improve my skills in React.js and Vue.js. 
 
-As a truly millennial, I like to see how web applications can make small and big changes in people's lives. Help people to connect, personal growth, build communities, contribute to education, to environment development, health technologies, and create easy access to knowledge and art.
+As a truly millennial, I like to see how web applications can make small and big changes in people's lives. help people connect, personal growth, build communities, contribute to education, to environment development, health technologies, and create easy access to knowledge and art.
 
 
 In addition to my technical background, I bring valuable experience from my previous roles as a Head baker & Team manager. This experience has equipped me with exceptional communication, problem-solving, and time management skills.
@@ -44,7 +44,7 @@ fogelshlomi@gmail.com
 - Are you looking for a buddy to improve some skills ?
 - Are you looking for people to share your hobbies with ?
 
-HobbyBuddy is an app that helps people to connect, sharing the same interests. We collaborated in team of four during our coding bootcamp to bring  this app alive, because we believe the best way to connect with each other is by actively doing things together, like learning languages, cook, bake, planning your dreamy nails-polish party, find a gym buddy, jamming, photo-walks and so much more…
+HobbyBuddy is an app that helps people connect, through shared interests. We collaborated in team of four during our coding bootcamp to bring  this app alive, because we believe the best way to connect with each other is by actively doing things together, like learning languages, cook, bake, planning your dreamy nails-polish party, find a gym buddy, jamming, photo-walks and so much more…
 
 <img width="225"  src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/e344f9da-7ead-49fe-9710-d2a948f3ce30">|
 <img width="225" src="https://github.com/ShlomiFo/ShlomiFo/assets/156531539/7b5182df-bfc8-41fd-a4e6-1941a419dc06">
